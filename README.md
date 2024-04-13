@@ -7,6 +7,15 @@ Dataset : [https://drive.google.com/drive/folders/1uUKLEu_tFVMy9WkDnf1rqqPwuQLQF
 
 Video : [https://youtu.be/CufiACr2Zs8](https://youtu.be/CufiACr2Zs8)
 
+If you plan to use this data set for your own research, please cite:
+```
+@article{rajapakshacan,
+  title={CAN-MIRGU: A Comprehensive CAN Bus Attack Dataset from Moving Vehicles for Intrusion Detection System Evaluation},
+  author={Rajapaksha, Sampath and Madzudzo, Garikayi and Kalutarage, Harsha and Petrovski, Andrei and Al-Kadri, M Omar}
+}
+```
+
+
 Dataset folder structure
 ```
 CAN-MIRGU
