@@ -5,6 +5,8 @@ This dataset includes CAN bus attacks collected from a modern automobile equippe
 
 Dataset : [https://drive.google.com/drive/folders/1uUKLEu_tFVMy9WkDnf1rqqPwuQLQFwBL?usp=sharing](https://drive.google.com/drive/folders/1uUKLEu_tFVMy9WkDnf1rqqPwuQLQFwBL?usp=sharing)
 
+Paper: https://www.ndss-symposium.org/ndss-paper/auto-draft-482/
+
 Video : [https://youtu.be/CufiACr2Zs8](https://youtu.be/CufiACr2Zs8)
 
 If you plan to use this data set for your own research, please cite:
